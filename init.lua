@@ -1,1 +1,1 @@
-require("bobo")
+require("config.lazy")
